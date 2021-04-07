@@ -1,0 +1,4 @@
+configuration {
+ theme: "nord";
+ font: "Source Code Pro:style=Regular 12";
+ }
